@@ -1,0 +1,4 @@
+openai
+chatgpt
+chatgot
+grok
